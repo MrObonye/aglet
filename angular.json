@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "aglet-demo"
+    }
+  },
+  "defaultProject": "aglet-demo",
+  "cli": {
+    "analytics": false
+  }
 }
